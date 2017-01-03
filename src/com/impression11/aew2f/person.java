@@ -4,7 +4,8 @@ package com.impression11.aew2f;
  * Created by Ethan on 12/10/15.
  */
 public class person {
-
+    // Additional comment
+    
     String firstName;
     String surname;
     String favoriteColor;
